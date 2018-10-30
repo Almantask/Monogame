@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Joshmond/Desktop/Demo/Demo/Content/circle.png</File>
+    <File>C:/Users/Joshmond/Desktop/Demo/Demo/Content/diamond.png</File>
+    <File>C:/Users/Joshmond/Desktop/Demo/Demo/Content/shape1.png</File>
+    <File>C:/Users/Joshmond/Desktop/Demo/Demo/Content/shape2.png</File>
+    <File>C:/Users/Joshmond/Desktop/Demo/Demo/Content/star.png</File>
+    <File>C:/Users/Joshmond/Desktop/Demo/Demo/Content/blue.png</File>
+    <File>C:/Users/Joshmond/Desktop/Demo/Demo/Content/green.png</File>
+    <File>C:/Users/Joshmond/Desktop/Demo/Demo/Content/red.png</File>
+  </SourceFiles>
+</SourceFileCollection>
